@@ -6,4 +6,4 @@ Huge shout out to:
 whom managed to explain how docker works and made it easy for others to understand the requirements of the activity!
 - https://github.com/VBrazhnik/docker-1/wiki/How-to-Docker
 ##### Disclaimer: 
-Since the activity is based in finding the right commands to fulfill the excercises this repo should be really like others 42 docker repos.
+Since the activity is based in finding the right commands to fulfill the excercises this repo should be really similar to other 42 docker repos, nevertheless the bonus excercises should be diferent.
